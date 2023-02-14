@@ -1,4 +1,4 @@
-![Profile picture]()
+
 
 ### Hi there, I'm Dominika 👋
 
