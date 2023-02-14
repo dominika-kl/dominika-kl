@@ -1,3 +1,5 @@
+![Profile picture]()
+
 ### Hi there, I'm Dominika 👋
 
 With years of experience in language study and application, I began with English, Ancient Greek and Latin and progressed to Modern Greek and French, now, I'm branching out into a new area of language mastery by learning programming languages such as Python, HTML, CSS, and JavaScript. 
