@@ -8,7 +8,7 @@ I'm eager to embark on this  ✨new journey ✨ and put my skills to use!
 ## Skills ##
 
 Programming:
-JavaScript, Reactjs, HTML, CSS, Node.JS, Cypress, Bootstrap.
+Python, JavaScript, Reactjs, HTML, CSS, Node.JS, Bootstrap.
 
 Translation: Polish, English, Greek, French
 
